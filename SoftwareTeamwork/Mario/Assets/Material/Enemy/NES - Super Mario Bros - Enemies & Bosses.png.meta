@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: 4c0890ff712df4643bfb94bc5da91127
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 340790383953342548
+    second: NES - Super Mario Bros - Enemies & Bosses_0
+  - first:
+      213: -3445805219055678651
+    second: NES - Super Mario Bros - Enemies & Bosses_1
+  - first:
+      213: 7830662861604875898
+    second: NES - Super Mario Bros - Enemies & Bosses_2
+  - first:
+      213: 95440312698277392
+    second: NES - Super Mario Bros - Enemies & Bosses_3
+  - first:
+      213: 2308166918365920877
+    second: NES - Super Mario Bros - Enemies & Bosses_4
+  - first:
+      213: -6242480474751377005
+    second: NES - Super Mario Bros - Enemies & Bosses_5
+  - first:
+      213: 9165831716783079408
+    second: NES - Super Mario Bros - Enemies & Bosses_6
+  - first:
+      213: 3309308788486980547
+    second: NES - Super Mario Bros - Enemies & Bosses_7
+  - first:
+      213: -9151197416791011325
+    second: NES - Super Mario Bros - Enemies & Bosses_8
+  - first:
+      213: 122794752958738702
+    second: NES - Super Mario Bros - Enemies & Bosses_9
+  - first:
+      213: -2433393228872898138
+    second: NES - Super Mario Bros - Enemies & Bosses_10
+  - first:
+      213: 444284445805893849
+    second: NES - Super Mario Bros - Enemies & Bosses_11
+  - first:
+      213: 366071511334221881
+    second: NES - Super Mario Bros - Enemies & Bosses_12
+  - first:
+      213: -5040956883455232216
+    second: NES - Super Mario Bros - Enemies & Bosses_13
+  - first:
+      213: -9139229879264834451
+    second: NES - Super Mario Bros - Enemies & Bosses_14
+  - first:
+      213: 4176562707417732423
+    second: NES - Super Mario Bros - Enemies & Bosses_15
+  - first:
+      213: -6851464144492082266
+    second: NES - Super Mario Bros - Enemies & Bosses_16
+  - first:
+      213: -1390964982557596264
+    second: NES - Super Mario Bros - Enemies & Bosses_17
+  - first:
+      213: 8068192823077422414
+    second: NES - Super Mario Bros - Enemies & Bosses_18
+  - first:
+      213: 5056903373773211302
+    second: NES - Super Mario Bros - Enemies & Bosses_19
+  - first:
+      213: 7425481693700958338
+    second: NES - Super Mario Bros - Enemies & Bosses_20
+  - first:
+      213: -7708699834869751998
+    second: NES - Super Mario Bros - Enemies & Bosses_21
+  - first:
+      213: 9155983042986039017
+    second: NES - Super Mario Bros - Enemies & Bosses_22
+  - first:
+      213: -7067695055150073505
+    second: NES - Super Mario Bros - Enemies & Bosses_23
+  - first:
+      213: 8528125107936032080
+    second: NES - Super Mario Bros - Enemies & Bosses_24
+  - first:
+      213: 158796541162123029
+    second: NES - Super Mario Bros - Enemies & Bosses_25
+  - first:
+      213: -7990170073046247405
+    second: NES - Super Mario Bros - Enemies & Bosses_26
+  - first:
+      213: -2399823750973197677
+    second: NES - Super Mario Bros - Enemies & Bosses_27
+  - first:
+      213: 3766283900613155554
+    second: NES - Super Mario Bros - Enemies & Bosses_28
+  - first:
+      213: 958280994046599665
+    second: NES - Super Mario Bros - Enemies & Bosses_29
+  - first:
+      213: -8768613689218059031
+    second: NES - Super Mario Bros - Enemies & Bosses_30
+  - first:
+      213: 6951116737712482596
+    second: NES - Super Mario Bros - Enemies & Bosses_31
+  - first:
+      213: 569948552217075283
+    second: NES - Super Mario Bros - Enemies & Bosses_32
+  - first:
+      213: -4263506519104413939
+    second: NES - Super Mario Bros - Enemies & Bosses_33
+  - first:
+      213: 8908751956955810000
+    second: NES - Super Mario Bros - Enemies & Bosses_34
+  - first:
+      213: 2764392132232447205
+    second: NES - Super Mario Bros - Enemies & Bosses_35
+  - first:
+      213: 5905531359763184556
+    second: NES - Super Mario Bros - Enemies & Bosses_36
+  - first:
+      213: 5212544218734416972
+    second: NES - Super Mario Bros - Enemies & Bosses_37
+  - first:
+      213: 8669765076374124434
+    second: NES - Super Mario Bros - Enemies & Bosses_38
+  - first:
+      213: 5198750390324337087
+    second: NES - Super Mario Bros - Enemies & Bosses_39
+  - first:
+      213: -1122873723061416524
+    second: NES - Super Mario Bros - Enemies & Bosses_40
+  - first:
+      213: 2123242064171827462
+    second: NES - Super Mario Bros - Enemies & Bosses_41
+  - first:
+      213: 3189658936040891960
+    second: NES - Super Mario Bros - Enemies & Bosses_42
+  - first:
+      213: -3847244932696627773
+    second: NES - Super Mario Bros - Enemies & Bosses_43
+  - first:
+      213: -984542216622375806
+    second: NES - Super Mario Bros - Enemies & Bosses_44
+  - first:
+      213: -4330389027976957768
+    second: NES - Super Mario Bros - Enemies & Bosses_45
+  - first:
+      213: -7748828841298537883
+    second: NES - Super Mario Bros - Enemies & Bosses_46
+  - first:
+      213: 7249379513968821047
+    second: NES - Super Mario Bros - Enemies & Bosses_47
+  - first:
+      213: -2755520150704609518
+    second: NES - Super Mario Bros - Enemies & Bosses_48
+  - first:
+      213: 768421765875682455
+    second: NES - Super Mario Bros - Enemies & Bosses_49
+  - first:
+      213: 4933237031283135178
+    second: NES - Super Mario Bros - Enemies & Bosses_50
+  - first:
+      213: 661218997816306504
+    second: NES - Super Mario Bros - Enemies & Bosses_51
+  - first:
+      213: 7314013413352483974
+    second: NES - Super Mario Bros - Enemies & Bosses_52
+  - first:
+      213: -431870645884810024
+    second: NES - Super Mario Bros - Enemies & Bosses_53
+  - first:
+      213: 6471960479608743554
+    second: NES - Super Mario Bros - Enemies & Bosses_54
+  - first:
+      213: 7182007424035513413
+    second: NES - Super Mario Bros - Enemies & Bosses_55
+  - first:
+      213: -8598090393998935849
+    second: NES - Super Mario Bros - Enemies & Bosses_56
+  - first:
+      213: -9110375363998952161
+    second: NES - Super Mario Bros - Enemies & Bosses_57
+  - first:
+      213: -3513695922259683574
+    second: NES - Super Mario Bros - Enemies & Bosses_58
+  - first:
+      213: 9056309163491896094
+    second: NES - Super Mario Bros - Enemies & Bosses_59
+  - first:
+      213: 7755381980416135963
+    second: NES - Super Mario Bros - Enemies & Bosses_60
+  - first:
+      213: 4794830677928442759
+    second: NES - Super Mario Bros - Enemies & Bosses_61
+  - first:
+      213: -5463075381763263405
+    second: NES - Super Mario Bros - Enemies & Bosses_62
+  - first:
+      213: -1241670837915618293
+    second: NES - Super Mario Bros - Enemies & Bosses_63
+  - first:
+      213: 5201072375313066690
+    second: NES - Super Mario Bros - Enemies & Bosses_64
+  - first:
+      213: -7518149075652037657
+    second: NES - Super Mario Bros - Enemies & Bosses_65
+  - first:
+      213: 6311327551383184494
+    second: NES - Super Mario Bros - Enemies & Bosses_66
+  - first:
+      213: 212294363806660510
+    second: NES - Super Mario Bros - Enemies & Bosses_67
+  - first:
+      213: 5917288780167146189
+    second: NES - Super Mario Bros - Enemies & Bosses_68
+  - first:
+      213: -3159882432032104256
+    second: NES - Super Mario Bros - Enemies & Bosses_69
+  - first:
+      213: 7481362230981346352
+    second: NES - Super Mario Bros - Enemies & Bosses_70
+  - first:
+      213: -868344367507532850
+    second: NES - Super Mario Bros - Enemies & Bosses_71
+  - first:
+      213: 4566848514751669507
+    second: NES - Super Mario Bros - Enemies & Bosses_72
+  - first:
+      213: 5037279127579387233
+    second: NES - Super Mario Bros - Enemies & Bosses_73
+  - first:
+      213: -7622924748232443047
+    second: NES - Super Mario Bros - Enemies & Bosses_74
+  - first:
+      213: 8171588557285280963
+    second: NES - Super Mario Bros - Enemies & Bosses_75
+  - first:
+      213: 4797059603292279082
+    second: NES - Super Mario Bros - Enemies & Bosses_76
+  - first:
+      213: 6648629003377366399
+    second: NES - Super Mario Bros - Enemies & Bosses_77
+  - first:
+      213: 5789977256152210892
+    second: NES - Super Mario Bros - Enemies & Bosses_78
+  - first:
+      213: -7823970456714317453
+    second: NES - Super Mario Bros - Enemies & Bosses_79
+  - first:
+      213: 2635292500419184386
+    second: NES - Super Mario Bros - Enemies & Bosses_80
+  - first:
+      213: -2528277813533678552
+    second: NES - Super Mario Bros - Enemies & Bosses_81
+  - first:
+      213: -4391008838570060982
+    second: NES - Super Mario Bros - Enemies & Bosses_82
+  - first:
+      213: 3608983983369441617
+    second: NES - Super Mario Bros - Enemies & Bosses_83
+  - first:
+      213: 5788258387145739875
+    second: NES - Super Mario Bros - Enemies & Bosses_84
+  - first:
+      213: -8983212228344388047
+    second: NES - Super Mario Bros - Enemies & Bosses_85
+  - first:
+      213: -1325878290368027757
+    second: NES - Super Mario Bros - Enemies & Bosses_86
+  - first:
+      213: 9099665633408802224
+    second: NES - Super Mario Bros - Enemies & Bosses_87
+  - first:
+      213: -8136916460656150592
+    second: NES - Super Mario Bros - Enemies & Bosses_88
+  - first:
+      213: 2336264137926329590
+    second: NES - Super Mario Bros - Enemies & Bosses_89
+  - first:
+      213: -4100722221083166110
+    second: NES - Super Mario Bros - Enemies & Bosses_90
+  - first:
+      213: 4660358087988071789
+    second: NES - Super Mario Bros - Enemies & Bosses_91
+  - first:
+      213: -5634284388668711194
+    second: NES - Super Mario Bros - Enemies & Bosses_92
+  - first:
+      213: 8712540355506948972
+    second: NES - Super Mario Bros - Enemies & Bosses_93
+  - first:
+      213: 3685185722143381805
+    second: NES - Super Mario Bros - Enemies & Bosses_94
+  - first:
+      213: -59791139982394534
+    second: NES - Super Mario Bros - Enemies & Bosses_95
+  - first:
+      213: 7735374268716503905
+    second: NES - Super Mario Bros - Enemies & Bosses_96
+  - first:
+      213: -1405631319147914816
+    second: NES - Super Mario Bros - Enemies & Bosses_97
+  - first:
+      213: 4691174929756865584
+    second: NES - Super Mario Bros - Enemies & Bosses_98
+  - first:
+      213: 6294121150988164224
+    second: NES - Super Mario Bros - Enemies & Bosses_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45078627c0bbab400800000000000000
+      internalID: 340790383953342548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bcff0f86a0e20d0800000000000000
+      internalID: -3445805219055678651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e6dcd426a1cac60800000000000000
+      internalID: 7830662861604875898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e02af6572135100800000000000000
+      internalID: 95440312698277392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e32834591480020800000000000000
+      internalID: 2308166918365920877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Enemies & Bosses_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391e12115114e59a0800000000000000
+      internalID: -6242480474751377005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

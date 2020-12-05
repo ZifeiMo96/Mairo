@@ -1,0 +1,1073 @@
+fileFormatVersion: 2
+guid: 82b27350ab9634a4387392dec054f206
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3732045684544685907
+    second: NES - Super Mario Bros - Mario & Luigi_0
+  - first:
+      213: 6991265327970168251
+    second: NES - Super Mario Bros - Mario & Luigi_1
+  - first:
+      213: 2761738562309040904
+    second: NES - Super Mario Bros - Mario & Luigi_2
+  - first:
+      213: 8609771650241553952
+    second: NES - Super Mario Bros - Mario & Luigi_3
+  - first:
+      213: -7092524186253238448
+    second: NES - Super Mario Bros - Mario & Luigi_4
+  - first:
+      213: 8251671179697366573
+    second: NES - Super Mario Bros - Mario & Luigi_5
+  - first:
+      213: 5034253560857214668
+    second: NES - Super Mario Bros - Mario & Luigi_6
+  - first:
+      213: -6178639469067718694
+    second: NES - Super Mario Bros - Mario & Luigi_7
+  - first:
+      213: -1570668979892962797
+    second: NES - Super Mario Bros - Mario & Luigi_8
+  - first:
+      213: 294301774663055213
+    second: NES - Super Mario Bros - Mario & Luigi_9
+  - first:
+      213: 2380067553346258572
+    second: NES - Super Mario Bros - Mario & Luigi_10
+  - first:
+      213: -7756326663481618889
+    second: NES - Super Mario Bros - Mario & Luigi_11
+  - first:
+      213: 4496255409200150117
+    second: NES - Super Mario Bros - Mario & Luigi_12
+  - first:
+      213: -2122281518289928267
+    second: NES - Super Mario Bros - Mario & Luigi_13
+  - first:
+      213: -6628094566032726748
+    second: NES - Super Mario Bros - Mario & Luigi_14
+  - first:
+      213: -4464793262571646435
+    second: NES - Super Mario Bros - Mario & Luigi_15
+  - first:
+      213: -6658439809007469494
+    second: NES - Super Mario Bros - Mario & Luigi_16
+  - first:
+      213: 2614374642221907857
+    second: NES - Super Mario Bros - Mario & Luigi_17
+  - first:
+      213: -5225613335145451781
+    second: NES - Super Mario Bros - Mario & Luigi_18
+  - first:
+      213: -841604874854819383
+    second: NES - Super Mario Bros - Mario & Luigi_19
+  - first:
+      213: 2754600019408082847
+    second: NES - Super Mario Bros - Mario & Luigi_20
+  - first:
+      213: -1982787768944201416
+    second: NES - Super Mario Bros - Mario & Luigi_21
+  - first:
+      213: -6866425942889956885
+    second: NES - Super Mario Bros - Mario & Luigi_22
+  - first:
+      213: 131010899740491702
+    second: NES - Super Mario Bros - Mario & Luigi_23
+  - first:
+      213: 3991841793721308301
+    second: NES - Super Mario Bros - Mario & Luigi_24
+  - first:
+      213: 4073101619456933093
+    second: NES - Super Mario Bros - Mario & Luigi_25
+  - first:
+      213: 4449869497627226960
+    second: NES - Super Mario Bros - Mario & Luigi_26
+  - first:
+      213: 5560389364097845957
+    second: NES - Super Mario Bros - Mario & Luigi_27
+  - first:
+      213: 7150129591449456395
+    second: NES - Super Mario Bros - Mario & Luigi_28
+  - first:
+      213: -4128720620083873039
+    second: NES - Super Mario Bros - Mario & Luigi_29
+  - first:
+      213: 7598896308846056451
+    second: NES - Super Mario Bros - Mario & Luigi_30
+  - first:
+      213: -5805076360984774150
+    second: NES - Super Mario Bros - Mario & Luigi_31
+  - first:
+      213: -1183203536663411426
+    second: NES - Super Mario Bros - Mario & Luigi_32
+  - first:
+      213: 2918468122476564140
+    second: NES - Super Mario Bros - Mario & Luigi_33
+  - first:
+      213: 9084981724015219437
+    second: NES - Super Mario Bros - Mario & Luigi_34
+  - first:
+      213: -6053883010443234556
+    second: NES - Super Mario Bros - Mario & Luigi_0
+  - first:
+      213: 4662497510052943229
+    second: NES - Super Mario Bros - Mario & Luigi_1
+  - first:
+      213: 3495264134062753086
+    second: NES - Super Mario Bros - Mario & Luigi_2
+  - first:
+      213: -499162079396695977
+    second: NES - Super Mario Bros - Mario & Luigi_3
+  - first:
+      213: -5514501362344333841
+    second: NES - Super Mario Bros - Mario & Luigi_4
+  - first:
+      213: 6544341545147273478
+    second: NES - Super Mario Bros - Mario & Luigi_5
+  - first:
+      213: -2681062388894355720
+    second: NES - Super Mario Bros - Mario & Luigi_6
+  - first:
+      213: -9137710437859834512
+    second: NES - Super Mario Bros - Mario & Luigi_7
+  - first:
+      213: 4355081586192593560
+    second: NES - Super Mario Bros - Mario & Luigi_8
+  - first:
+      213: -7736027849796352485
+    second: NES - Super Mario Bros - Mario & Luigi_9
+  - first:
+      213: 3691312107100491798
+    second: NES - Super Mario Bros - Mario & Luigi_10
+  - first:
+      213: 7842793774967414721
+    second: NES - Super Mario Bros - Mario & Luigi_11
+  - first:
+      213: -5645823435103739220
+    second: NES - Super Mario Bros - Mario & Luigi_12
+  - first:
+      213: -5124207781986864214
+    second: NES - Super Mario Bros - Mario & Luigi_13
+  - first:
+      213: -1962599776141173540
+    second: NES - Super Mario Bros - Mario & Luigi_14
+  - first:
+      213: -7472696613482159069
+    second: NES - Super Mario Bros - Mario & Luigi_15
+  - first:
+      213: 7718745756694620270
+    second: NES - Super Mario Bros - Mario & Luigi_16
+  - first:
+      213: 4672089346481039075
+    second: NES - Super Mario Bros - Mario & Luigi_17
+  - first:
+      213: -5248779183523953375
+    second: NES - Super Mario Bros - Mario & Luigi_18
+  - first:
+      213: -4481628855018811581
+    second: NES - Super Mario Bros - Mario & Luigi_19
+  - first:
+      213: 3187542933999090881
+    second: NES - Super Mario Bros - Mario & Luigi_20
+  - first:
+      213: 4643791613336166284
+    second: NES - Super Mario Bros - Mario & Luigi_21
+  - first:
+      213: -3966288349510808531
+    second: NES - Super Mario Bros - Mario & Luigi_22
+  - first:
+      213: -3924327709428678192
+    second: NES - Super Mario Bros - Mario & Luigi_23
+  - first:
+      213: 7931458962444302832
+    second: NES - Super Mario Bros - Mario & Luigi_24
+  - first:
+      213: 8890881459591141094
+    second: NES - Super Mario Bros - Mario & Luigi_25
+  - first:
+      213: -343951031993594665
+    second: NES - Super Mario Bros - Mario & Luigi_26
+  - first:
+      213: 7311996641721924498
+    second: NES - Super Mario Bros - Mario & Luigi_27
+  - first:
+      213: -8219385236445278933
+    second: NES - Super Mario Bros - Mario & Luigi_28
+  - first:
+      213: 2838794486204762125
+    second: NES - Super Mario Bros - Mario & Luigi_29
+  - first:
+      213: 5903080240991180503
+    second: NES - Super Mario Bros - Mario & Luigi_30
+  - first:
+      213: 2040218161875230322
+    second: NES - Super Mario Bros - Mario & Luigi_31
+  - first:
+      213: 7820169125346997665
+    second: NES - Super Mario Bros - Mario & Luigi_32
+  - first:
+      213: 2510561235809317266
+    second: NES - Super Mario Bros - Mario & Luigi_33
+  - first:
+      213: 6136453519026390876
+    second: NES - Super Mario Bros - Mario & Luigi_34
+  - first:
+      213: -5278619211028989792
+    second: NES - Super Mario Bros - Mario & Luigi_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 18
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40332c21a794cfba0800000000000000
+      internalID: -6053883010443234556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 18
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7559dc48c484b040800000000000000
+      internalID: 4662497510052943229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 18
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3549f2163ca18030800000000000000
+      internalID: 3495264134062753086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 18
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750f634cbbe9219f0800000000000000
+      internalID: -499162079396695977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 18
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedee006a3e8873b0800000000000000
+      internalID: -5514501362344333841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 18
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601955f36fb22da50800000000000000
+      internalID: 6544341545147273478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 18
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8feaa4156f3facad0800000000000000
+      internalID: -2681062388894355720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 18
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0754cfa35c4503180800000000000000
+      internalID: -9137710437859834512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 21
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892bad0e0ab507c30800000000000000
+      internalID: 4355081586192593560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 18
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b160c5868ab14a490800000000000000
+      internalID: -7736027849796352485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 19
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610d2d2ddcc2a3330800000000000000
+      internalID: 3691312107100491798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 18
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfd39ba26337dc60800000000000000
+      internalID: 7842793774967414721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 19
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2e016af7106a1b0800000000000000
+      internalID: -5645823435103739220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 18
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa37167eb2823e8b0800000000000000
+      internalID: -5124207781986864214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 19
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc18d2e6e173c4e0800000000000000
+      internalID: -1962599776141173540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 18
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324a127a506ab4890800000000000000
+      internalID: -7472696613482159069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_16
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 18
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68265bbe5e7e1b60800000000000000
+      internalID: 7718745756694620270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_17
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 18
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6a3efb18896d040800000000000000
+      internalID: 4672089346481039075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_18
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 18
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125079d44279827b0800000000000000
+      internalID: -5248779183523953375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_19
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 18
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f86711d4e0ec1c0800000000000000
+      internalID: -4481628855018811581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_20
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 19
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc725ff86d6c3c20800000000000000
+      internalID: 3187542933999090881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f17d35edf027040800000000000000
+      internalID: 4643791613336166284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c43aaa2c9e4f8c0800000000000000
+      internalID: -3966288349510808531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d108418dbcf989c0800000000000000
+      internalID: -3924327709428678192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9b41757e3321e60800000000000000
+      internalID: 7931458962444302832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e65903e491c26b70800000000000000
+      internalID: 8890881459591141094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_26
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc84e5db5a0a3bf0800000000000000
+      internalID: -343951031993594665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 3
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b3fac743e697560800000000000000
+      internalID: 7311996641721924498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dc695fca0eeed80800000000000000
+      internalID: -8219385236445278933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08829c6b8c656720800000000000000
+      internalID: 2838794486204762125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d618ec0434fbe150800000000000000
+      internalID: 5903080240991180503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e9fd2db9f405c10800000000000000
+      internalID: 2040218161875230322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_32
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5f8cfe262d68c60800000000000000
+      internalID: 7820169125346997665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_33
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291b747742e47d220800000000000000
+      internalID: 2510561235809317266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_34
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57834696ff092550800000000000000
+      internalID: 6136453519026390876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_35
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8701e7bc39eb6b0800000000000000
+      internalID: -5278619211028989792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
